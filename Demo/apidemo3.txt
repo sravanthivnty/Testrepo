@@ -1,0 +1,6 @@
+request verbs->get,post,put,delete,
+request header->what type pf response is required xml or json
+request body->contains data to send to the server
+response body->contains the data sent as response from server
+response status codes->provide the client the ststus of the request for the complete list of 
+http status codes 
